@@ -1,0 +1,255 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Writing and Analyzing Ethics Cases in Business and Research Ethics</title>
+
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m15991</md:content-id>
+  <md:title>Writing and Analyzing Ethics Cases in Business and Research Ethics</md:title>
+  <md:abstract>Caution: this module is still under development.  This student module is designed to help students write and analyze ethics cases in business and research ethics.  It provides a short taxonomy of ethics cases, tips on identifying and writing cases, and a four-step framework for analyzing them.  Converging, interdisciplinary research shows that identifying, developing, and studying ethics cases strengthens decision making and enables a concrete, "thick" understanding of basic and intermediate moral concepts. This module is being developed as a part of a project funded by the National Science Foundation, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779.  It makes full use of the student module template developed in conjunction with this project.</md:abstract>
+  <md:uuid>3cf01a49-5ec6-4d24-976d-604a0992bf56</md:uuid>
+</metadata>
+
+<!-- DO NOT EDIT THE INFORMATION, INSTEAD GO TO THE METADATA TAB IN EDITOR -->
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+<section id="Links">
+<title>Outline of contents of featured links in Online Ethics, UPRM-Ce-PRO, Computing Cases, and Connexions</title>
+
+<list id="element-354" list-type="bulleted">
+<item>Computing Cases has experimented with a method for displaying a case that takes advantage of online features such as hyperlinking.  The three cases featured (Therac-25, Hughes Aircraft, and Machado) provide excellent templates for developing your own case.  They, typically, provide an abstract, case narrative, socio-technical system analysis, supporting document, perspective pieces, and short ethical discussions.  The focus is on computer ethics.</item>
+
+<item>Online Ethics provides a wide variety of cases.  Of special interest are the cases developed by graduate students that reflect their experiences in research ethics.  These cases normally provide the case narrative, a commentary written by the graduate student who is the author of the case, and a commentary by one or more of the ethicists participating in the graduate research ethics workshop held through the auspices of the Association for Practical and Professional Ethics.</item>
+
+<item>Adopt an orphan.  The University of Puerto Rico - Mayaguez Center for Ethics in the Professions has a number of case drafts displayed at its website.  These come from faculty development workshops or from students who have developed cases in ethics workshops and classes.  These provide only the bare narrative.  Your group may choose to adopt an orphan by taking one of these narrratives and building upon it through a socio-technical analysis or through links to supporting information online.  These cases represent issues vital to students and instructors in business, science, and engineering.  Developing one into a full blown case study would represent an excellent investment of your time.</item>
+<item>The National Society of Professional Engineers publishes cases that have been brought to and discussed by its Board of Ethical Review.  The NSPE BER cases go all the way back to the 1960's and provide invaluable insights into how engineers interpret and use their codes of ethics.  Each case has a summary, a question to be answered by the BER's deliberations, a list of relevant code provisions, a discussion of the case in terms of these provisions and a concluding decision.  Occasionally, the BER does not reach complete agreement on cases and publishes a minority decision.  Your group could adopt a BER case to this assignment by completing its research, identifying key decision points, and providing an analysis of the case's underlying socio-technical system.</item>
+<item>Finally, two Connexions modules devoted to the Biomatrix and Toysmart cases provides tables and templates to help you along on the process of analyzing your case.  They set forth exercises and tables designed to help you work through the four stages of problem-solving based on an analogy between ethics and design problems.  These are (1) problem specification, (2) solution generation, (3) solution testing, and (4) solution implementation.</item>
+</list>
+</section>
+
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Introduction</title>
+
+   <list id="element-994" list-type="bulleted"><title>Learning Basic and Intermediate Moral Concepts</title>
+	<item>Below is a media file that provides a summary of the basic and intermediate moral concepts that play a key role in business and engineering ethics.  (Many of them also apply to research ethics.)  This summary, in table form, will help you in forming your case.  Which concepts arise in the case you are considering?  Can you reform or rewrite the case to bring out other concepts?</item>
+	<item>Examples of <emphasis>Basic Moral Concepts</emphasis>: Rights, Duties, Goods, and Virtues.  </item>
+	<item>Examples of <emphasis>Intermediate Moral Concepts</emphasis>: Conflict of Interest, Confidentiality, Free Speech, Informed Consent, Privacy, Intellectual Property, etc.</item>
+<item>Cases provide an excellent way of learning how these basic and intermediate moral concepts fit into the real world.</item></list><list id="element-324" list-type="bulleted"><title>This module is designed to help you learn ethics by preparing and analyzing ethics cases.  </title>
+	<item>Discussing cases will help you learn about basic and intermediate moral concepts.  Studying several cases helps you develop a repertoire of examples of different degrees and kinds of instantiations of these concepts in real situations.  Discussing these cases and comparing them to one another helps you to develop paradigmatic examples of the concepts and then understand more problematic instances by establishing their relations to the paradigms through analogical reasoning.  This process, called by some "prototyping" more accurately reflects the way we understand and use these thick concepts than does the process of formally defining them in terms of necessary and sufficient conditions.  (See Michael Pritchard, <emphasis>Reasonable Children</emphasis>, and Mark Johnson, <emphasis>Moral Imagination</emphasis>.  For a clear and useful explanation of relating problematic cases to paradigms (what they call "line drawing problems"), see Harris, Pritchard, and Rabins, <emphasis>Engineering Ethics: Concepts and Cases </emphasis> (2000) Wadsworth: 45-52.</item>
+	<item>Cases provide the means of converting the freestanding ethics course into an ethics laboratory where you practice decision-making under conditions that mirror real world situations to the greatest degree possible.</item>
+	<item>By helping us to develop cases, you keep our ethics program, in all its aspects, as up to date and relevant as possible.  Many of these cases will be integrated into the College of Business Administration Ethics Bowl competition.</item></list><list id="element-989" list-type="bulleted"><title>In this module you will carry out the following activities:</title>
+<item>Study and respond to a taxonomy that spells out different types of ethics cases.</item>
+	<item>Receive advice on how to choose, prepare, write, and analyze your case.</item>
+	<item>Study different templates for writing and analyzing your case.  For example, the template (=procedures) for developing cases used by Dr. Huff at the Computing Cases website provides an excellent model for developing historical, thick cases.  Dr. Huff places the development of a socio-technical system analysis at the center of his case writing and analyzing method.</item>
+<item>You will receive advice on how to develop a poster presentation on your case study and your analysis.</item></list><para id="introduction-section"/>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+<list id="element-717" list-type="bulleted"><title>Michael Davis in Ethics and the University (1999) Routledge: 143-174 provides a comprehensive discussion of how the field of practical and professional ethics employs the case study method of teaching.</title>
+<item>He discusses how law schools began to use discussion of legal decisions (law cases) to teach the law.</item>
+<item>Professors presented these cases using the "Socratic Method" or what has also been termed as "testing to destruction." Aggressive questioning is used to get students accustomed to the pressures of making a legal argument in an adversarial context in court.  The Socratic Method has never been successfully used in teaching business because questions are not used by managers as weapons in a legal context but as means for gathering the information necessary for making informed decisions.</item>
+<item>Davis also discusses how the Harvard Business School adopted the legal model of teaching by case discussion but quickly changed this methodology to reflect better the underlying dynamics of the business situation.</item>
+<item>Philosophers have also used cases to clarify, rhetorically support, or advance a position in a philosophical controversy.  Deciding whether to keep the promise you made to the village chief (on his deathbed) to use his inheritance to build a statute of him or to buy the village children much needed shoes helps to point out ethical conflicts and to advance a theory as a more effective way of addressing these conflicts.  The dilemma that Jim in the Jungle faces (made famous by Bernard Williams) that is portrayed in the Mountain Terrorist module also provides an example of this kind of puzzle case.</item>
+<item>Ethics cases began to emerge when physicians brought practical and difficult decisions raising ethical issues to philosophical ethicists for discussion and counsel.  These case have also undergone different transformations as they have been used to promote learning and discussion in the different areas of practical and professional ethics.</item></list><para id="element-28"><title>This quote from Donaldson and Gini also provides insight into how the case study method was first imported into business teaching.</title>
+<emphasis>"What is known today as the case study method began at Harvard University in 1908 with the opening of the new business school.  The business school's first catalog stated that the "problem method" would be utilized "as far as practicable."  After years of struggle and experimentation, the case method reached maturity at Harvard from 1919 to 1942 under the encouragement of the deal of the business school, Wallace Donham.  It was during these years that the method became the trademark of the Harvard Business School, a position it retains to this day."</emphasis> Thomas Donaldson and Al Gini, Case Studies in Business, 4th Ed.  New Jersey: Prentice Hall, 1996: 12.</para><para id="element-398">Michael Davis in <emphasis>Ethics and the University</emphasis> also provides an excellent case taxonomy.  Below are the sixteen distinctions he uses to classify cases.  It is best to think of this taxonomy, not as a static matrix within which we slot a case, but as a set of specifications and constraints we can use to design or modify cases to fit our needs and purposes.</para><list id="element-796" list-type="enumerated"><item><emphasis>Long (and very long) v. short (and very short)</emphasis></item>
+<item><emphasis>Documents (or pseudo-documents) v. summary</emphasis></item>
+<item><emphasis>Single perspective v. several perspectives</emphasis></item>
+	<item><emphasis>Narrative v. dialogue</emphasis></item>
+	<item><emphasis>Pure fact v. descriptive commentary</emphasis></item>
+<item><emphasis>Realistic (hypothetical) v. real (actual)</emphasis></item>
+<item><emphasis>Stories v. problems</emphasis></item>
+<item><emphasis>You (agent) v. they (judge)</emphasis></item>
+<item><emphasis>Would v. should</emphasis></item>
+<item><emphasis>Top v. bottom</emphasis></item>
+<item><emphasis>Success (the positive) v. failure (the negative)</emphasis></item>
+<item><emphasis>Single issue (poor) v. multi-issue (rich)</emphasis></item>
+<item><emphasis>Single stage v. multi-stage</emphasis></item>
+<item><emphasis>Ordinary v. technical language</emphasis></item>
+<item><emphasis>Personal v. policy</emphasis></item>
+<item><emphasis>Living v. frozen</emphasis></item></list><para id="element-512"/><list id="element-273" list-type="bulleted"><title>Case Taxonomy (Taken from Huff and Frey)</title>
+
+<item><emphasis>Thick vs. Thin Cases</emphasis>: Thin cases are useful for abstracting a single point and focusing work on that point.  Thick cases can give the student practice in making ethical decisions in the full context of the messy real world.</item>
+
+<item><emphasis>Historical vs. Hypothetical</emphasis>: Historical cases are based on actual experience in the field.  The Therac-25, Ford Pinto, Hughes Aircraft, and Machado cases are all historical.  these provide the sort of excitement and immediate relevance that help students to recognize the importance of ethical enquiry.  On the other hand, cases that are hypothetical, fictional, or abstract remove much of the impact of the historical case, though they allow the case writer the freedom to structure, abstract and focus the discussion on precisely the issues of concern.  Harvard Business cases are generally thick and historical.  Useful--in fact excellent--for in-depth study, they present difficulties for those interested in directing shorter activities.</item>
+
+<item><emphasis>Good vs. Bad News cases</emphasis>: The tendency in ethics cases is to have only bad news cases in which some bad outcome occurs because of poor choices.  These cautionary tales do grab students' imaginations but the asymmetrical emphasis on bad news gives the impression that good--or even decent--action is impossible, rare, and heroic.  Bad news cases should be balanced with cases of morally exemplary scientists and engineers as well as with good choices toward good outcomes made by ordinary scientists and engineers.</item>
+
+<item><emphasis>Big vs. Small News Cases</emphasis>: Bad news cases are frequently big news cases; bad news is more sensational and often more newsworthy.  Bad news cases are also rare events which make them big news.  But these cases frequently present students with a spectacle which, while interesting, precludes involvement.  On the other hand, small news cases are about the everyday decisions that scientists and engineers make in the way they handle reporting, data collection , process management, personnel and other day-to-day issues.  So big news cases are more sensational and exciting; little news cases are more appropriate to the day-to-day ethical situations that students are likely to face.	</item>
+
+<item>From Huff, C. W. and Frey, W. (2005)  "Moral pedagogy and practical ethics"  <emphasis>Science and Engineering Ethics</emphasis> Vol. 11, 1-20.)</item></list><para id="element-82"><title>The following table compares and contrasts participant vs. evaluator cases.  In general, the difference comes down to this: participant cases are excellent for practicing decision-making while evaluator cases do an excellent job of teaching students how to apply ethical theory.</title></para><table id="element-233" summary="">
+<title>Participant vs. Evaluator Cases</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><emphasis>Participant</emphasis></entry>
+    <entry><emphasis>Evaluator</emphasis></entry>
+  </row>
+<row>
+<entry>Student takes on the role of one of the participants and makes a decision from that perspective</entry>
+    <entry>Student takes up a standpoint from outside the case and evaluates the participants and their deeds.</entry>
+  </row>
+  <row>
+    <entry>Helps students to practice integrating ethical considerations into designing and implementing solutions to real world problems.</entry>
+    <entry>Useful for introducing and practicing different ethical principles and concepts</entry>
+  </row>
+  <row>
+    <entry>Allows students to practice making decision under real world constraints such as lack of knowledge and lack of time.</entry>
+    <entry>Useful for introducing and practicing different ethical principles and concepts.</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table>
+
+</section>
+
+<section id="activities">
+<title>What you will do...</title>
+
+<list id="element-648" list-type="bulleted"><title>Choosing Your Case</title>
+	<item>Tie your case to areas that interest you and tie directly to your research.</item>
+	<item>Chose narratives that raise an ethical issue such as how to mitigate or prevent harm, how to resolve value conflicts, how to balance and respect different stakeholder rights, how to balance out conflicting elements of a socio-technical system, and how to transform a dysfunctional organization into an ethical organization.</item>
+	<item>Choose a case that can be built out of readily accessible information.  Looking carefully at the case's socio-technical system can help you identify and assess information needs.</item>
+<item>Your case should interest and engage you.  You and your group should find preparing it a good investment of your time, energy, and expertise.</item></list><list id="element-587" list-type="bulleted"><title>Structuring Your Case</title>	
+<item><emphasis>Abstract</emphasis>: Begin your case with a short paragraph that summarizes or outlines the narrative events.  It should draw the reader in.</item>
+	<item><emphasis>Historical Narrative</emphasis>: Here, in about 5 to 10 pages, you should detail the "story" of your case.  Elements in a narrative or story include a beginning, middle, and end.  Protagonists or main characters confront difficulties or obstacles.  (This is called the agon in Greek.)  At the end of your case, the reader should be clear about how successful the protagonist dealt with the agon and the antagonists.</item>
+	<item><emphasis>Socio-Technical Analysis</emphasis> The case narrative unfolds in a particular context called a socio-technical system.  Identify the components of your case's STS.  Generally these include hardware, software, physical surroundings, stakeholders, procedures, laws, and information systems.  Summarize your STS in a table.  Then unpack it in a detailed analysis.  Frequently, you will find the conflict in your case's narrative in the form of conflicts between values embedded in the STS.</item>
+<item><emphasis>Participant Perspectives</emphasis>: If you were detailing the Enron case, you would identify a key decision point and then weave a mini-narrative around it.  For example, an important moment occurred when Enron decided to implement mark-to-market accounting.  Invent a dialogue where this was discussed and reenact the reasons the eventually led to the decision.</item>
+<item><emphasis>Ethical Perspective Pieces</emphasis>: The cases prepared by graduate students in APPE's seminar in research ethics were followed by commentaries by the authors and the ethicists who directed the seminar.  They explore ethical issues in the context of the case's narrative in issues such as privacy, confidentiality, and informed consent.  These ethical perspective pieces can be drawn out into a full blow analysis that follows a framework such as (1) problem specification, (2) solution generation, (3) solution testing, and (4) solution implementation.</item>
+<item><emphasis>Chronology</emphasis>: A table outline in chronological order the key events of the case helps you and your reader stay on track. </item></list><list id="element-754" list-type="enumerated"><title>Analyzing Your Case</title>
+
+	<item><emphasis>Do a Socio-Technical Analysis</emphasis>: Use the examples found at m14025 to get you started.  The STS will help you identify key problems.</item>
+	<item><emphasis>Specify Your Problem</emphasis>: Look for conflicts between the values embedded in the STS.  Look also for harmful consequences in the present, the short term future, and the long term future.</item>
+	<item><emphasis>Generate a Solution List.  Refine that Solution List</emphasis>: Work on changing and rebalancing elements in the STS to resolve the conflict or harmful consequences you scoped when specifying the problem.</item>
+<item><emphasis>Test Your Solutions</emphasis>: Use the Ethics Tests (reversibility, harms/benefits, and publicity) plus code and values tests to test your solution.  Rank them.</item>
+<item><emphasis>Implement Your Solution</emphasis>: Using the feasibility test as a check list, identify possible resource, interest, and technical constraints that could impede the implementation of your solution.</item></list><figure id="element-624"><title>Presentation on Problem Solving</title>
+  <media id="id2176982" alt=""><download src="Decision Making Manual V3.ppt" mime-type="application/vnd.ms-powerpoint"/></media>
+  <caption>Clicking on this media file will open a powerpoint presentation on problem solving in ethics.  It outlines specifying the problem, generation solutions, testing solutions, and implementing solutions.  This problem solving method is based on an analogy between ethics and design.</caption> </figure><list id="element-450" list-type="bulleted"><title>Advice for Preparing a Poster on Your Case</title>
+
+	<item><emphasis>Your Objective</emphasis>: Develop a Poster that captures the case's narratives and summarizes the different stages of a case analysis framework.  In the figure below, we have appended an excellent poster presentation developed by Dr. Carlos Rios.</item>
+	<item><emphasis>Dimensions</emphasis>: Your poster should print out onto a piece of paper two feet by three feet.  It should be available digitally in ppt format (either version 2003 or 2007).</item>
+<item><emphasis>Due Date: May 1 for presentation in class either May 1 or May 8.</emphasis></item>
+<item><emphasis>Content</emphasis>: (1) summary of key ethically relevant facts; (2) highlight of the dominant elements of the case's socio-technical system; (3) an analysis of the case that includes problem definition, solutions generated, solution testing (in the form of a solution evaluation matrix), and a plan for implementing the solution over situational constraints; (4) Your names; (5) items that will help visually portray case elements such as flow charts and pictures.</item>
+<item>Make your case visually interesting and choose images that capture the essence of the concepts you are portraying.  Be daring and exciting here.</item>
+<item>Practice presenting from your poster.  And have fun!</item></list><figure id="element-800"><title>Poster Presentation for GERESE NSF Project</title>
+  <media id="id1164498833177" alt=""><download src="etica_poster_2.pptx" mime-type="application/vnd.ms-powerpoint"/></media>
+  <caption>Clicking on this figure will give you the poster presentation prepared by Dr. Carlos Rios for GERESE, an NSF project in research ethics for graduate students.</caption></figure><figure id="element-718"><title>Poster Presentation: Poehlman Case</title>
+  <media id="id1994122" alt=""><download src="Poelhlman_Poster.pptx" mime-type="application/vnd.ms-powerpoint"/></media>
+  <caption>Clicking on this figure will open a poster presentation reporting on a case of scientific misconduct.</caption> </figure><para id="what-you-need-to-know-section">The Poehlman Case analysis/poster is about half way completed.  It has been included to give you an idea of how the case development process looks (and feels) at its mid point.  The STS table included provides a sense of the gaps that need to be filled with further investigation and analysis.  For example, more information could be collected on hormonal treatment therapy.  The dialogue box quoting from one of the witnesses could be expanded into conversations between Poelman and the witness or between the witness and officials at the University of Vermont.  The point is to identify gaps in the case development that can be filled with moral imagination and further research.</para><table id="element-895" summary="">
+<title>Style- and Content-Based Criticisms of Poehlman Poster</title>
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><emphasis>Content</emphasis></entry>
+    <entry><emphasis>Style</emphasis></entry>
+  </row>
+  <row>
+    <entry>Information gaps such as details on hormone replacement therapy</entry>
+    <entry>Change "background" of poster; interferes with the title</entry>
+  </row>
+  <row>
+    <entry>Provide more depth such as personalities of participants</entry>
+    <entry>Do not use the same "background" for the Ethical Problem section or eliminate this part to create more space for other parts</entry>
+  </row>
+  <row>
+    <entry>Case needs "thickness" or more concrete detail</entry>
+    <entry>Difficult to read different sections (Too crowded)</entry>
+  </row>
+  <row>
+    <entry>Describe motivations of main participants, especially Poehlman</entry>
+    <entry>Better arrangement of pictures on poster space needed</entry>
+  </row>
+  <row>
+    <entry>More information such as the amount of money awarded to Poehlman in his grants</entry>
+    <entry>Eliminate shadows throughout poster</entry>
+  </row>
+  <row>
+    <entry>More information needed on ORI investigative procedures</entry>
+    <entry>Poster should have "depth" in the form of embedded links that open up background information</entry>
+  </row>
+  <row>
+    <entry>References to Wikipedia, the ORI publicity release, and Pascal presentation need to be in larger font</entry>
+<entry>Empty space in Poster could be better utilized</entry>
+  </row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">After you finish your poster presentation, take some time to reflect on the reaction of your teacher and classmates.  Was it what you expected?  How could you change things to align better your expectations and goals with results?  What did you learn from developing this case?  What were the obstacles, frustrations, or negative experience you faced in this exercise?  Assess this exercise, your case, the reaction, and your experience in general.</para>
+
+</section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<para id="appendix">Below are supporting materials to help with you as you work through this module.  They include a presentation on writing and analyzing cases, a table of basic moral concepts, and a table of intermediate moral concepts.</para><figure id="element-867"><title>Presentation on Writing Cases</title>
+  <media id="id1164499286955" alt=""><download src="Writing and Analyzing Ethics Cases in Business.ppt" mime-type="application/vnd.ms-powerpoint"/></media>
+  <caption>Clicking on this figure will allow you to open a PowerPoint presentation on writing and analyzing cases.  It provides a case taxonomy, suggestions on how to choose a case, templates for "filling out" a case, and a framework for analyzing a case.</caption> </figure><para id="eip-43"><title>Presentation onCase Writing</title><media id="BGS_Pres2" alt="Writing Cases Presentation">
+  <download mime-type="application/zip" src="BGS_Cases_V2.pptx"/>
+</media>
+</para><para id="eip-206"><media id="BGS_Pres3" alt="Writing Cases Presentation">
+  <download mime-type="application/zip" src="BGS_Cases_V3.pptx"/>
+</media>
+</para><figure id="element-837"><title>Basic Moral Concepts</title>
+  <media id="id1164495051494" alt=""><download src="BME_V2_97.doc" mime-type="application/msword"/></media>
+  <caption>To help you develop and analyze your case, this media file contains tables that summarize basic moral concepts such as goods, rights, duties, and virtues.</caption></figure><figure id="element-402"><title>Intermediate Moral Conceptse</title>
+  <media id="id1675777" alt=""><download src="IMC_V2_97.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this figure will open a table that summarizes intermediate moral concepts such as privacy, informed consent, and safety.  These concepts will help you to choose, develop and analyze your case.</caption></figure>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>

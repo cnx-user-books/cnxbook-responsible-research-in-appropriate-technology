@@ -1,0 +1,418 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Approaches in Environmental Ethics For Business and Engineering</title>
+
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32584</md:content-id>
+  <md:title>Approaches in Environmental Ethics For Business and Engineering</md:title>
+  <md:abstract>This module has been developed for students in Business Administration and Engineering.  Students learn to integrate ethics into environmental problem-solving by studying different approaches (deontology, utilitarianism, virtue) that take different perspectives (individualistic/holistic, anthropocentric/nonanthropocentric) on real world environmental problems.  Three cases taken from Puerto Rico introduce these themes: Super Aqueduct, Windmills, and Gas Pipelines.  The characterization of environmental problems as "wicked" comes from Rittel and Weber.  Students are given tools for tackling these ill-structured situations that resist more traditional approaches.  Ethical approaches in environmental are presented to help uncover the ethical, social, political, economic and ecological dimensions of interdisciplinary environmental problems.  Real world cases provide a practical "laboratory" in which students can try out and test problem solving frameworks.  Finally, reflective activities and reference materials are provided to help achieve module closure.  This module has been developed as part a project funded by the National Science Foundation, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779.</md:abstract>
+  <md:uuid>0351a74a-e46c-4452-9221-3278cfa31649</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="http://media.shipspotting.com/uploads/photos/rw/841000/Ship+Photo+ZOE+COLOCOTRONI.jpg" strength="3">Photo of the Zoe Colocotroni</link>
+    </link-group>
+    <link-group type="supplemental">
+      <link url="http://ethics.sandiego.edu/" strength="3">Ethics Update: Environmental Ethics</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+<note id="id13157810" type="KEY TO LINKS"><label>KEY TO LINKS</label>This section provides a brief description of the links provided by this module.  These sources are designed to suppliment the material provided in this module and to help you navigate the resources displayed on the internet to find materials of value in environmental ehtics.
+<code id="id13157820" display="block">- The Zoe Colocotroni was an oil tanker that became grounded
+on a reef off the southwest coast of Puerto Rico.  This led to
+a famous legal decision and a creative solution to the problem
+of determining damages to the environment.
+
+- Ethics Updates links to a wealth of online materials related to
+environmental ethics.  Many of these can also be found at the 
+North Texas University website.
+</code>
+</note>
+
+<figure id="figure-example"><title>Word Version of this Template</title>
+  <media id="id13384778" alt=""><download src=" EAC TK STD TEMPLATE.doc" mime-type="application/msword"/></media>
+  <caption>This is an example of an embedded link. (Go to "Files" tab to delete this file and replace it with your own files.)</caption>
+
+
+<!-- Other common MIME TYPES are &#8220;image/jpeg&#8221; for ___.jpg, &#8220;audio/mpeg&#8221; for ___.mpg, 
+&#8220;video/quicktime&#8221; for ___.mov, &#8220;application/powerpoint&#8221; for ___.ppt
+&#8220;application/excel&#8221; for ___.xls OR you can search for other MIME TYPES--></figure>
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Cases</title>
+
+   <para id="introduction-section">These cases touch on environmental problems in the Puerto Rican context.  To respond, begin with a socio-technical analysis of Puerto Rico.  To help, please look at http://cnx.org/content/m14025/latest/.  You will find an STS table toward the end of the module in the form of a media file.  Click on this file to open tables that describe Puerto Rico in the context of engineering and energy generation.</para><list id="eip-126"><title>Super Aqueduct</title><item>In the 1990’s, the San Juan Metro Area suffered chronic water shortages during the summer months.  High demand in the Metro Area (which covers about one third of Puerto Rico) coupled with less rain in the summer months was one cause.  Decaying and neglected water infrastructure (leaky water lines, illegal taps into the water supply, and silt-filled reservoirs whose water storage capacity had been drastically reduced), high temperatures, and less rain provided the other causes.</item>
+
+<item>During the late 1990’s, government and water officials debated different options for resolving the problem.  First, they imposed a rationing system where water was turned off except for short periods in the morning and evening.  This discouraged nonessential uses such as watering lawns and filling swimming pools, but rationing proved unpopular and failed to address the broader, underlying causes.</item>
+
+<item>Another solution emerged based on moving water from other parts of the island where supply was plentiful and population sparse to the areas of scarcity.  Called the Super Aqueduct, this pipeline would transport water from the Rio Grande south of Arcecibo to San Juan and surrounding communities.  Objections to the super aqueduct focused around environmental and safety concerns.</item>
+
+<item>First, taking water from the Rio Grande would reduce the amount of fresh water that flowed into the Arecibo estuary, an ecosystem that emerged where the fresh water of the Rio Grande flowed into the salt water of the Atlantic Ocean.  Reducing the flow of fresh water into the estuary would harm the estuary.  Moreover, it would accelerate the draining of Puerto Rico’s main aquifer located in the north under the limestone hills that form what is called the Karst region.  Highway construction, individual wells and the general decline of the rivers that deliver fresh water to the Atlantic have all drained fresh water from this aquifer which has been replaced by salt water drawn in from the Atlantic.</item>
+
+<item>Opposition to the Super Aqueduct also raised safety concerns.  The aqueduct was designed to deliver up to 100 million gallons of water per day to the San Juan area.  This made it essential to design and construct pipes that could contain water running through it at such high pressures.  Moreover, it required careful planning in locating the pipeline to make sure that avoided densely populated areas.  To dramatize this, a section of pipeline burst during a routine test causing considerable property damage.  Fortunately, nobody was at home when a river of water inundated several houses sweeping away heavy appliances such as washing machines, refrigerators, and stoves.</item>
+
+<item>The Super Aqueduct was constructed and activated in 2002.  It is now transporting water to the Metro Area and the chronic water shortages in the summer have stopped.</item>  </list><list id="eip-217"><title>Windmills</title><item>Kristin Shrader-Frachette classifies energy generation technologies as following either hard or soft paths.  (She attributes this distinction to Amory Lovins.)  “The hard path is centralized, capital intensive, large scale, complex, and energy intensive.”  On the other hand, “the soft path is characterized by decentralization, smaller capital investments, small-scale organizational structures, and less complex, labor-intensive technologies.” </item>
+
+<item>The windmill project, currently under debate in Puerto Rico, seems to have a foot in each.  In its earlier phases, windmill technology walked on the soft path with decentralized ownership, small scale operation, low capital investment, and simple design.  But the plan set forth by a private company to build a windmill farm in Puerto Rico has been met with local opposition that seeks to locate it on the hard path.</item>
+
+<item>The windmills are to be built on a plot of land adjacent to the Dry Forest of Guanica, a fragile nature preserve under the protection of the United Nations and the Puerto Rican government.  Some fear that the windmills would kill birds from the many endangered species that have sought refuge in the preserve.</item>
+
+<item>Others are concerned that the company proposing to build the windmill farm cannot be trusted to remain focused on windmill technology; they fear it will be used as an excuse to industrialize the Guanica/Ensenada areas with harmful environmental and social impacts.  Industrialization would disrupt a way of life for residents that dates back to the sugarcane plantations that operated until the early 1970’s.</item>
+
+<item>The public hearings carried out on the project by the Puerto Rican government were poorly publicized and held in an exclusive resort complex located on the far side of the island, a good day’s drive from the Dry Forest of Guanica.  Those already concerned about the environmental impact of the windmill project, now added concerns about their rights of participation and social justice.</item>
+
+<item>“What,” they ask, “are public officials trying to hide?”</item>
+</list><list id="eip-828"><title>Gas Pipelines</title><item>Puerto Rico depends almost entirely on petroleum to fuel the plants that produce the island’s electricity.  In 1992, a project developed by the private company, Cogentrix, to produce electricity and sell steam as a byproduct using cheap and widely available coal was defeated by groups in the Mayaguez area concerned by the plant’s environmental impacts.  Both the proponents of the plant and the electric authority predicted chronic shortages and black outs by the turn of the century.  These predictions have turned out to be true.</item>
+
+<item>Moreover, the environmental impact of the oil-dependent generating plants combined with the instability of the world oil market has brought the energy crises to Puerto Rico.  The EPA has ordered the Puerto Rico energy authority, called the <emphasis>Autoridad de Energía Eléctrica (AEE)</emphasis>, to reduce its dependence on oil for the production of electricity to below 50% by the year 2010.</item>
+
+<item>To comply, the AEE has turned to natural gas and has begun the construction of a pipeline from the coastal region near Penuelas to electricity plants on the other side of Ponce.  The technology surrounding natural gas is sound, safe, and clean.  But the location of the pipeline and the environmental and social impact of its construction has caused damage in largely poor communities.</item>
+
+<item>Residents interviewed state that they were not properly informed that the pipeline would be situated so close to their homes or that the construction would have such a grave impact.  They claimed that they were not able to participate in the public hearings held on the pipeline and have been forced to bear an unjust burden of its social and environmental costs.</item>
+
+<item>Does the use of natural gas delivered to electricity generating plants by means of underground pipelines represent good, sustainable environmental decision-making?</item>
+
+<item>What should the AEE and the Puerto Rican governmental officials have done differently to anticipate better the social justice concerns of those living near the construction sites of the pipelines?</item></list>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section><section id="eip-180"><title>Introduction</title><list id="eip-224"><item>In this module you will learn about the different approaches to environmental ethics.  A table will summarize and classify the different approaches that have dominated the discussion for the last thirty years.  These include extensionism, environmental virtue ethics, ecocentrism, biocentrism, and the land ethic.</item>
+
+<item>Another table will help you to analyze problems in terms of the priority of basic over non-basic interests and human versus non-human interests.  This will help break the habits we have of automically favoring human over non-human interests when making environmental decisions.</item>
+
+<item>Byron Norton provides a Pragmatic approach to the environment that makes use of his considerable experience inside the Environmental Protection Agency.  You will use a framework here that summarizes the different principles/values that he uses to define "sustainability."</item>
+
+<item>Forming the background of environmental decision-making are basic concepts and procedures outlines in the discipline of ecology.  This module will provide some basic definitions of ecological concepts like ecosystems.  It will also outline some of the intellectual history of environmentalism by sketching different approaches to ecology as set forth by historical figures like Clements, Gleason, and Tansley.  </item>
+
+<item>Finally, an exercise section will help you integrate and practice these frameworks and concepts in the cases discussed above.  When you finish this module, you will have a fuller, richer standpoint from which to make environmental decisions in the occupational and professional contexts.</item>
+
+</list></section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+<list id="eip-754"><title>Environmental Concepts</title><item><emphasis>Ecosystems</emphasis>: "Ecosystems--forests, wetlands, lakes, grasslands, deserts--are areas in which a variety of living organisms interacting in mutually beneficial ways with their living and nonliving environments."(Des Jardins, 166)</item>
+
+<item><emphasis>Ecosystems</emphasis>: "Ecosystems are self-organizing systems that unfold on many scales and at many speeds; indeed, ecosystems exist on all scales from microhabitat to eco-region, so it is apparently irrelevant to ecological risks to identify at-risk individuls and count risks to them. (Norton, 9)</item>
+
+<item><emphasis>Characteristics of Ecosystems</emphasis>: (1) Boundaries serve to separate and distinguish ecosystems.  These boundaries are porous, and ecosystems interact with one another.  (2)Niches provide organisms within ecosystems with roles and associated activities.  These niches organize organisms and their activities.  Then the niches, themselves, are coordinated and interact within the overall ecosystem.  (3) Succession characterizes the tendency of ecosystems toward internal and external dynamic integrity.  Internally, the activities of organisms within a niche are coordinated with one another, and theses niches, themselves, interact according to stable patterns.  In the past ecosystems evolved by passing through a succession of intermediate states toward a climactic stage characterized by internal and external equilibrium.  This climax phase represents the ecosystem in its most mature phase.</item>
+
+<item><emphasis>Evolution</emphasis>: Charles Darwin "discovered" the theory of evolution and set forth its basic elements in his monumental work, "The Origin of Species."  (1) The main thesis of evolution is that species, themselves, change, evolving in response to changes in the surrounding environment. (2) The main principle guiding the evolution of species is natural selection. Randomly produced variations embodied in the individuals that populate a species are, for the most part, not that important to survival. But occasionally a variation gives an individual a survival advantage that is perpetuated through this individual's increased ability to pass on these characteristics through reproduction. In this way, the surrounding environment filters out most random variations in individuals, allowing only those that provide a competitive advantage to be passed on. Over time, this leads to changes in the species itself. (3) Darwinism is important to environmental ethics because it provides a broader framework in which to understand the impact of human activities on the surrounding natural environment. Darwinism conveys both how dynamic the natural environment is and also how susceptible it is to the impact of human activities.</item>
+</list><list id="eip-730"><title>History of Ecology</title><item>Phase I—Clements: “Nature’s course … is not an aimless wandering to and fro but a steady flow toward stability that can be exactly plotted by the scientist.  In any given habitat there occurs a clear progression through what Clements termed a “sere,” a system of developmental stages that begins with a primitive, inherently unbalanced plant assemblage and ends with a complex formation in a relatively permanent equilibrium.” Worster, EN, 210  “the unit of vegetation, the climax formatin, is an organic entity.  As an organism, the formation arises, grows, matures and dies….The climax formation is the adult organism, the fully developed community, of which all initial and medial stages are but stages of development.  Succession is the process of the reproduction nof a formation, and this reproductive process can no more fail to terminate in the adult form in vegetation than it can in the case of the individual.” (Clements quoted by Worster, EN, 211)</item>
+
+<item>Phase II—Gleason and Individualism: The Individualistic Concept of Plant Association.  Ecosystems are not organisms.  They do not form associations but “mere accidental groupings.”  Hence, Gleason criticizes the notion of ecosystems working toward a climax state.  Worster, EN, 238</item>
+
+<item>Phase III—Tansley and Individualism: Tansley rejected the “monoclimax” views of Clements.  He also felt that it was wrong to define the climax state of ecosystems indepedntly of human influence.  “Anthropogenic” climax: “biological system that is artificially created by humans but is as stable and balanced as Clements’ primeval climax.” Worster 240.  Tansley sees ecosystems as physical systems.  Ecosystems are arenas in which an exchange of energy and chemicals takes place.  This allows for ecosystems to be treated analogously to electricity and using field theory in physics and its associated mathematical models.  This also allows for ecology to move from methodological holism to methodological individualism: the behavior of the ecosystem is reducible to the sum total of the behavior of its parts</item>
+
+</list><table id="eip-905" summary="Table one"><title>Table One: </title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry><emphasis>Approach</emphasis></entry>
+    <entry><emphasis>Description</emphasis></entry>
+    <entry><emphasis>Method</emphasis></entry>
+    <entry><emphasis>Proponents</emphasis></entry>
+    <entry><emphasis>Leading Questions, Values, and Virtues</emphasis></entry>
+  </row>
+  <row>
+    <entry><emphasis>Non-Anthropocentric Holism</emphasis></entry>
+    <entry><emphasis>Land Ethic</emphasis>: A thing has value or is good insofar as it promotes the integrity, stability, and beauty of the biotic community.  Biotic community includes humans, non-humans, species, and ecosystems all interacting as a system.</entry>
+    <entry>Focus of analysis and study is on ecosystem as a whole</entry>
+    <entry>Sessions (Deep Ecology); Aldo Leopold according to Baird Callicott's reading</entry>
+    <entry>(1) <emphasis>Respect for Biotic Communities</emphasis> (2) <emphasis>Prudence</emphasis>: "the midpoint between 'a mad rush into oblivion' and an 'intransigent do-nothingness'" (3) <emphasis>Practical wisdom or judgment</emphasis>: "showing 'sensitivity' to ecological communities and their members and sorting out the rival claims and interests within and among communities." See Shaw, "Aldo Leopold's Land Ethic</entry>
+  </row>
+  <row>
+    <entry><emphasis>Non-Anthropocentric Individualism</emphasis></entry>
+    <entry><emphasis>Biocentrism</emphasis>: This approach attributes moral consideration to all living things.  It is based on respecting all "teleological centers of a life."</entry>
+    <entry>Individual living things are focus of analysis.  Objective is to find the telos or life-directing goal of each living individual.</entry>
+    <entry>Paul Taylor; John Rodman; Albert Schweitzer</entry>
+    <entry> (1) Find, through sympathetic imagination, an individual's "teleological center of a life, i.e., its proper good. (2) Respect it by refraining from interferring with it and promoting the circumstances its needs to realize its end (=telos)</entry>
+  </row>
+  <row>
+    <entry><emphasis>Anthropocentric Holism</emphasis></entry>
+    <entry><emphasis>Virtue Environmental Ethics</emphasis>: Approach centers on virtues as habits that promote sustainable transactions with the natural environment.  Hursthouse provides a provocative example with the virtue, respect for nature.</entry>
+    <entry/>
+    <entry>Rosalind Hursthouse; Sandler/Cafaro et. al.</entry>
+    <entry>(1) <emphasis>Virtues of Position</emphasis>: "Constructive habits of seeing ourselves in a particular place in a relational structure and interacting accordingly.  (2) <emphasis>Virtues of Care</emphasis>: "habits of constructive involvement within the relational structure where we have found our place.  How widely do we cast our sensors in order to learn what is needed around us?"  (3) <emphasis>Virtues of Attunement</emphasis>: "habits of handling temptations by adjusting our positive, outgoing drives and emotions to match our chosen place and degree of constructive, ecosocial engagement."  (4) <emphasis>Virtues of Endurance</emphasis>: "habits of facing dangers and difficulties by handling our negative, protective drives and emotions in such a way that we can sustain our chosen sense of place and degree of constructive ecosocial engagement."  Wensveen, 176-177</entry>
+  </row>
+  <row>
+    <entry><emphasis>Anthropocentric Individualism</emphasis></entry>
+    <entry><emphasis>Extensionism</emphasis>: (1) Moral value is extended ot individuals via sentiency, i.e., their capacity to suffer. (2) Moral rights are extended to individuals via preference autonomy, i.e., having desires and the capacity to act on them.</entry>
+    <entry/>
+    <entry>Peter Singer (Animal Liberation); Tom Regan (Animal Rights)</entry>
+    <entry>(1) <emphasis>Extending Utilitarianism</emphasis>: (a) What are the sentient creatures involved?  (b) What impacts do our actions have on them?  (c) What is the overall balance of benefits and harms?  Does this balance maximize utility?
+
+(2) <emphasis>Extending Deontology</emphasis>: (a) What/who are the moral patients involved?  (b) What are their rights?  (c) Does the proposed action violate any of these rights?  (d) Who speaks for these moral patients? </entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup><caption>Outline of ethical approaches to environmental problem-solving</caption>
+</table><list id="eip-594" list-type="enumerated" number-style="arabic"><title>Deep Ecology Platform (Naess and Sessions)</title><item>The flourishing of human and nonhuman life on earth has intrinsic value.  The value of nonhuman life-forms is independent of the usefulness these may have for narrow human purposes.</item>
+
+<item>Richness and diversity of life-forms are values in themselves and contribute to the flourishing of human and nonhuman life on earth.</item>
+
+<item>Humans have no right to reduce this richness and diversity except to satisfy vital needs.</item>
+
+<item>Present human interference with the nonhuman world is excessive, and the situation is rapidly worsening.</item>
+
+<item>The flourishing of human life and cultures is compatible with a substantial decrease of the human population.  The flourishing of nonhuman life requires such a decrease.</item>
+
+<item>Significant change of life conditions for the better requires change in policies.  These affect basic economic, technological, and ideological structures.</item>
+
+<item>The ideological change is mainly that of appreciating <emphasis>life quality</emphasis> (dwelling in situations of intrinsic value) rather than adhering to a high standard of living.  there will be a profound awareness of the difference between big and great.</item>
+
+<item>Those who subscribe to the foregoing points have an obligation directly or indirectly to participate in the attempt to implement the necessary changes.  This Deep Ecology Platform was developed by Naess and Sessions and quoted in Des Jardins, p. 217.</item>  
+
+</list><table id="eip-505" summary="Trade off table"><title>Conflicts Between Goods: A Schema for their Analysis and Resolution</title>
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis>Human Goods/Non-Human Goods</emphasis></entry>
+    <entry><emphasis>Basic Non-Human Good</emphasis></entry>
+    <entry><emphasis>Non-Basic, Non-Human Good</emphasis></entry>
+  </row>
+  <row>
+    <entry><emphasis>Basic Human Good</emphasis></entry>
+    <entry>Basic human good has priority because of right of survival.  (Humans need to clear wilderness to grow food)</entry>
+    <entry>Basic human good has priority because a basic good has priority over a non basic good.  Cutting back branches on a tree to prevent them from breaking off and killing school children</entry>
+  </row>
+  <row>
+    <entry><emphasis>Non-Basic Human Good</emphasis></entry>
+    <entry>The basic, non-human good has priority because a basic good has priority over a non-basic good.  Ex: I ought not cut down my trees to pave over my backyard and park my car.</entry>
+    <entry>Toss-up.  Some non-basic goods have priority over others.  I may, for example, have the right to deprive a non-human of some good in order to preserve an important (but not basic) cultural or historical good.</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup><caption>Trade offs between human and non-human, basic and non-basic goods.</caption>
+</table><list id="eip-105"><title>Notes on Table Two</title><item>Sacrificing one good for another is always a last resort.  This requires that you do the following first:</item>
+<item>That you have first looked hard for ways to harmonize or integrate the conflicting goods.  Chances are, you can design a value-integrating solution.</item>
+<item>That the conflict between goods can only be resolved by the sacrifice of one to the other.</item>
+<item>That if you do--as a last resort--find it necessary to sacrifice one good, that you find a way to offset this.  For example, AES planted trees in Costa Rica to sequester the carbon that it produced in its co-generation plants in the US.</item>
+<item>That the sacrifice of the basic non-human good be only for the short term.  That preventive measures be taken now to prevent such a sacrifice in the future.</item>
+
+</list>
+
+</section><section id="eip-260"><title>Norton's Approach to Environmental Problem-Solving</title><list id="eip-153"><title>Wicked Problems</title><item>Norton, drawing from Webber and Rittel, characterizes environmental problems as "wicked."  This may not be the most felicitous choice of works since declaring problems wicked seems to place them beyond solution.  But wicked can be spelled out to show that environmental problems are solvable but require a different, more social and interdisciplinary approach.</item>
+
+<item>Wicked problems are difficult to formulate because they cover "ill-structured" situations.  Specifying them requires the exercise of the structuring capacities of imagination.  And it requires recognition that these problems can be brought to determination in different ways.</item>
+
+<item>Wicked problems are not numerical problems.  (Non-computability)  They have components or regions that admit of quantification but, as a whole, resist quantification.  This requires that environmental problem-solvers go beyond economic and quantitative ecological methods.</item>
+
+<item>Wicked problems are non-repeatable.  This is, perhaps, an indirect way of saying that they are context bound.  Because the context shifts from situation to situation, what works in one situation must be reconstructed to fit the specific content of a different, new situation.  We learn from the past but the past must be modified to fit the context of the present and future.</item>
+
+<item>Both wicked problems and their solutions are open-ended.  We can distinguish between good and bad problem specifications and good and bad solutions.  But there is no uniquely correct problem formulation and there is no uniquely correct solutions.  Pragmatists argue that this is due to fallibilism (our efforts to reach the truth always fall short) and experimentalism (our solutions must be tested in the crucible of experience).</item>
+
+<item>Finally, wicked problems must be approached from an interdisciplinary standpoint.  They present economical, ecological, social, and ethical dimensions that must be integrated in the problem-solving process.  This is, decidedly not multidisciplinary where the disciplines are present alongside one another but do not interact.  In environmental problem-solving these disciplines much engage and challenge one another, work to formulate common problems, and design solutions that integrate the different disciplinary concerns and aims.</item></list><list id="eip-639"><title>Norton's Sustainability Values</title><item><emphasis>Community Procedural Values</emphasis>: These are values (reciprocity, publicity, and accountability) that, when adopted by a community, help it to structure a fair and open community deliberative process.</item>
+
+<item><emphasis>Economic Values</emphasis>: Economic goods emerge from actual and hypothetical values.  (1) Willingness-to-Pay: the instrumental value of a resource is set by the price an individual or group would be willing to pay to acquire the resource; (2) Willingness -to-Sell: because WTP undervalues resources (it ties value to the constraint of disposable income) a more accurate measure of value would be the amount that an individual or group would accept from a bidder to take the resource out of its current use and put it to a different one.</item>
+
+<item><emphasis>Risk Avoidance Values</emphasis>: Precautionary Principle--"in situations of high risk and high uncertainty, always choose the lowest-risk option." 238</item>
+
+<item><emphasis>Risk Avoidance Values</emphasis>: Safe Minimum Standard of Conservation--"save the resource, provided the costs of doing so are bearable."348.</item>
+
+<item><emphasis>Values Central to Community's Identity</emphasis>: Justice, integrity, trust, responsibility, and respect can apply here but they should be taken in their thick as well as thin senses.  These values, in their thick sense, depend on the quality of the discourse generated within the community.</item>
+</list></section>
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="whatYouWillDo-section">
+   <title>What you will do ...</title>
+
+<list id="eip-322"><title>Exercise One: How Much is El Yunque Worth?</title><item>Assume a developer is interested in purchasing El Yunque (the only tropical national park in the United States) for the purpose of turning it into qa recreation center.  They have made their bid.  A referendum has been announced where the Puerto Rican people can try collectively to out-bid this developer.  Please indicate below the maximum amount you would pay each year to keep El Yunque in its present condition.</item>
+
+<item>El Yunque has just been purchased by Mega Entertainment, a huge, multi-national, mass media and entertainment park conglomerate.  They plan on cutting down all the tropical stuff and replacing it with a recreation center, amusement parks, a theme park, several gourmet theme restaurants, a high end shopping mall, and a hotel-resort complex.  You consider spending your honeymoon in the new Mega Entertainment El Yunque resort complex.  The following are reasonable rates for a week-long stay in a resort complex.  How much would you be willing to pay?  (a) below $500.    (b)$500-$1000.    (c)$500-$1000.    (d) More than $2000.  (Assume these prices are competitive with other, high scale resort complexes.</item>
+
+<item>If the amount that you are willing to pay in #2 is greater than what you would be willing to pay in #1, does this mean that you value the Mega Entertainment El Yunque recreation complex more than the El Yunque National Park?  Explain your answer.</item>
+
+<item>Now, assume that you as a Puerto Rican jointly own El Yunque as a national treasure.  How much would Mega Entertainment have to pay you (and other Puerto Ricans) for you to become "willing to sell" El Yunque?  What, in other words, is your selling price?.</item>
+
+<item>Compare your selling price with your paying price for El Yunque.  What factors constrain what you are willing to pay?  What considerations influence the price at which you are willing to sell?</item></list><list id="eip-928"><title>Exercise Two: Super Aqueduct</title><item>The Super Aqueduct provides an interesting test for a conflict between basic human and non-human goods.  Having affordable drinking water is a basic good for humans.  However, is it necessary to sacrifice the estuary from which the Super Aqueduct pumps water in order to serve the water needs of the San Juan Metro area?</item>
+
+<item>Several questions have to be answered</item>
+
+<item>How much water must be pumped out of the Arecibo estuary?</item>
+
+<item>Is the Super Aqueduct the only means by which safe drinking water can be delivered to the San Juan Metro area?</item>
+
+<item>Have other measures like conservation been tried and thoroughly tested?</item>
+
+<item>Can the water shortages in San Juan be addressed by other partial solutions like repairing and up-dating infrastructure?</item>
+
+<item>Are technical solutions like desalinization viable in the short and long term?</item>
+</list><list id="eip-10"><title>Exercise Three: Windmills and Environmental Virtues</title><item>Louke Van Wensveen identifies four virtue groups for environmental ethics.  These consists of virtues of (1) Position, (2) Care, (3) Attunement, and (4) Endurance.</item>
+
+<item>If the windmill project were carried out in accordance with these virtues would it be a moral imperative to go ahead with the project?</item>
+
+<item>How would these virtues guide the design, construction, and operation of a windmill farm?</item>
+
+<item>Who would carry out the project?  What would the role of the government be?  What would the role of the local commmunity be?</item>
+
+</list><list id="eip-847"><title>Exercise Four: Land Ethic and Oil Refineries</title><item>Examine the oil refinery in Catano, Puerto Rico in terms of the four virtues Shaw attributes to Leopold's Land Ethic</item>
+
+<item>How does the project stand in relation to the virtue of <emphasis>Respect for the Biotic Community</emphasis>?</item>
+
+<item>How does the project stand in relation to the virtue of <emphasis>Prudence</emphasis>?</item>
+
+<item>How does the project stand in relation to the virtue of <emphasis>Practical Wisdom or Judgment</emphasis>?</item></list><list id="eip-716"><title>"Do Not Feed the Bears?"</title><item>Last February, in the middle of a cold morning, a bison bull plunged through the ice-covered Yellowstone River near Fishing Bridge in the center of the park and was unable to extricate himself.  Water vapor steaming from its nostrils in the crisp air, the 2,000 pound animal struggled in vain, succeeding only in enlarging the hole.  About 10:30 a.m. park employee Barbara Seaquist, a member of the young Adult Conversation Corps, discovered the drowning bison and contacted park headquarters.  A park ranger replied that the incident was a natural occurrence, and the bison should be allowed to sink or swim on its own.  Meanwhile, several persons who had heard about the struggling beast appeared on the scene to photograph it.</item>
+
+<item>By about 5:00 p.m., as dusk was settling on the bison's struggle for life, a party of nine snowmobilers approached the bridge.  After learning from Seaquist that assisting the buffalo was against park policy, one of the snowmobilers, Glenn Nielson, a vice president of Husky Oil Company from Cody, Wyoming, became outraged.  He was struck by what appeared to be the callous attitude of the photographers, who were merely filming the incident.  "If you're not going to help it," Nielson said, "then why don't you put it out of its misery?"</item>
+
+<item>The sowmobilers left the scene, and after a brief caucus four of them returned, Nielson carrying a sixty-foot orange nylon rope.  Seaquist was gone when they returned, so they fashioned a loop, tied it around the animal's horns, and walking gingerly out on the ice, tried to haul the animal to safety.  At this point Seaquist returned and repeated her request that nature be allowed to prevail.  She also warned the four men that they were endangering their own lives by walking out onto the ice.  They ignored her.  According to Nielson the bison had almost make it out of the water when the rope broke.  "The sad thing," he said, "is that he [the bison] knew we were trying to help.  He laid his head at my feet just exhausted."  As it grew too dark for the rescuers to see, the attempt was abandoned.  The temperature fell to -20F that night.  In the morning the bison was dead, frozen into the ice.  Coyotes and ravens soon descended on the animal.  When the warmth of spring melted the river and freed the remainder of the carcass, a grizzly bear was observed feeding on the bison downstream.  A shred of orange nylon rope was still fastened to its horns.</item>
+
+<item>Upon his return to Cody, Nielson wrote a letter to the right-wing radio commentator Paul Harvey, describing what he felt was the Park Service's cruelty.  Harvey seized on the dramatic incident and, in three venom-filled broadcasts, tore into the Part Service's policy of nonintervention, calling officials "knee-jerk ecologists."  "It is not a scientific question, it is a moral one," Harvey said.  "The reason Jesus came to earth was to keep nature from taking its course."  By J. Robbins quoted in Stone, 157-8.</item></list><list id="eip-254"><title>Exercise Five: Should the Bison Be Saved?</title><item>If you were there, would you join Nielson in attempting to save the bear?</item>
+
+<item>Choose an ethical approach from above that best supports the Park Service's position of nonintervention and construct an ethical argument in its support.</item>
+
+<item>Choose an ethical approach from above that best supports the position of intervention and construct an ethical argument in its support.</item>
+
+<item>Is Harvey right when he claims that the Park Service assumes this a scientific issue when in fact it is a moral/religious issue?  Is nonintervention clearly the position that must be derived from the ecological standpoint?</item> </list><list id="eip-461"><title>Exercise Six: Stop Having Babies</title><item>The platform of Deep Ecology uses the position that nature is intrinsically valuable to assert that human population must be drastically curtained.</item>
+
+<item>Examine the claim that nature is intrinsically valuable, that is, it has value on its own independently of its usefulness as a resource to serve human needs.</item>
+
+<item>Examine the additional premise that human activity is "excessive and the situation is rapidly worsening." </item>
+
+<item>Do you think that human population should be seriously curtailed to mitigate or eliminate the harmful impact of human activity on the environment?</item>
+
+<item>Norton would hold that the Deep Ecology platform is decidedly nonanthropocentric.  Do you agree?  Can, as Norton claims, a sustainable environmental policy be carried out on anthropocentric grounds?</item></list>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">Take time to do a Muddy Point exercise on this module.  What did you learn?  (Something positive.)  What was the muddiest point?  (Something you didn't understand or disagreed with.)</para>
+
+</section><section id="eip-296"><title>Presentation on Module</title><para id="eip-466"><media id="PowerPoint_Pres_1" alt="Presentation on Environmental Ethics">
+  <download mime-type="application/zip" src="Environmental Ethics.pptx"/>
+</media>
+        </para><para id="eip-769"><title>Presentation on Environmental Ethics With Exercises</title><media id="PowerPoint_Pres_3" alt="Presentation on Environmental Ethics With Exercises">
+  <download mime-type="application/zip" src="Environmental Ethics V3a.pptx"/>
+</media></para><para id="eip-113"><title>Presentation at Schoenstatt January 22, 2010</title><media id="env-pres4" alt="Environmental Ethics and the Via Verde">
+  <download mime-type="application/zip" src="Environmental Ethics and the Via Verde.pptx"/>
+</media>
+</para><para id="eip-815"><title>Presentation Taped October 30, 2011 at Schoenstatt</title><media id="env-pres5" alt="Environmental Ethics Plus 2011 Cases">
+  <download mime-type="application/zip" src="Env_Et_V4.pptx"/>
+</media></para></section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<list id="eip-197" list-type="enumerated" number-style="arabic"><title>References</title><item>Callicott, B.  (1989).  <emphasis>In Defense of the Land Ethic: Essays in Environmental Philosophy </emphasis>.  Albany, NY: Suny Unversity Press.</item>
+
+<item>Des Jardins, J.R.  (1993).  <emphasis>Environmental Ethics: An Introduction to Environmental Philosophy</emphasis>.  Belmont, CA: Wadsworth: 217.</item>
+
+<item>Hickman, L.  (1996).  Nature as Culture: John Dewey’s Pragmatic Naturalism.  In <emphasis>Environmental Pragmatism</emphasis>, Light, A. and Katz, E. (Eds.).  London: Routledge: 50-72.</item>
+
+<item>Horst, W. J. Rittel and Melvin M. Webber.  (1973).  <emphasis>Dilemmas in a General Theory of Planning</emphasis>.  In <emphasis>Policy Sciences</emphasis> 4: 155-169.</item>
+
+<item>Leopold, A.  (1949/1978).  <emphasis>A Sand County Almanac: With Essays on Conservation from Round River </emphasis>.  New York, Ballentine Books.</item>
+
+<item>Norton, B.G.  (2005)  <emphasis>Sustainability</emphasis>.  Chicago: University of Chicago Press.</item>
+
+<item>Regan, T.  (1983).  <emphasis>The Case For Animal Rights</emphasis>.  Berkeley, CA: University of California Press.</item>
+
+<item>Robbins, J. (1984).  "Do Not Feed the Bears?"  <emphasis>Natural History</emphasis>, January 1984: 12, 14-16.</item>
+
+<item>Rosenthal, S.B., and Buchholz, R.A.  (1996).  How Pragmatism Is An Environmental Ethic.  In <emphasis>Environmental Pragmatism</emphasis>, Light, A. and Katz, E. (Eds.).  London: Routledge: 38-49. </item>
+
+<item>Rua, E. (2000) "Super Aqueduct Coming Online," in <emphasis>Caribbean Business</emphasis>. http://www.puertorico-herald.org/issues/vol4n09/CBAqueduct-en.html (accessed April 17, 2009).</item>
+
+<item>Sagoff, M. (1988).  <emphasis>The Economy of the Earth: Philosophy, Law, and the Environnment</emphasis>.  Cambridge, UK: Cambridge University Press.</item>
+
+<item>Shaw, Bill.  (2005)  A Virtue Ethics Approach to Aldo Leopold’s Land Ethic.  In <emphasis>Environmental Virtue Ethics</emphasis> (Sandler and Cafaro, Eds.).  Lanham, Maryland: Rowman and Littlefield: 100-102.</item>
+
+<item>Shrader-Frechette, K.S.  (1984).  Ethics and Energy.  In <emphasis>Earthbound: New Introductory Essays in Environmental Ethics</emphasis>.  Regan, T. (Ed.).  New York: Random House: 107-146.</item>
+
+<item>Singer, P.  (1975/1977)  <emphasis>Animal Liberation: A New Ethics For Our Treatment Of Animals</emphasis>.  New York: Avon.</item>
+
+<item>Stone, C.D.  (1987).  <emphasis>Earth and Other Ethics: The Case for Moral Pluralism</emphasis>.  New York: Harper and Row: 155.</item>
+
+<item>Taylor, P.W.  (1986)  <emphasis>Respect for Nature: A Theory of Environmental Ethics </emphasis>.  Princeton, NY: Princeton University Press.</item>
+
+<item>Wensveen, Louke Van.  (2005)  Cardinal Environmental Virtues.  In <emphasis>Environmental Virtue Ethics</emphasis> (Sandler and Cafaro, Eds.).  Lanham, Maryland: Rowman and Littlefield: 176-177.</item>
+
+<item>Worster, D.  (1977/1994).  <emphasis>Nature's Economy: A History of Ecological Ideas: 2nd Ed</emphasis>.  Cambridge: Cambridge University Press.</item>
+
+
+
+</list>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>

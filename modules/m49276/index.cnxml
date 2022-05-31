@@ -1,0 +1,233 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>ANÁLISIS SOCIO-TÉCNICO PARA EL DESARROLLO DE TMDLS DESDE UNA PERSPECTIVA DE MANEJO INTEGRADO DE CUENCA</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m49276</md:content-id>
+  <md:title>ANÁLISIS SOCIO-TÉCNICO PARA EL DESARROLLO DE TMDLS DESDE UNA PERSPECTIVA DE MANEJO INTEGRADO DE CUENCA</md:title>
+  <md:abstract>The development and approval of TMDLs for Puerto Rico impaired water bodies have been increasing in recent years.  However, the need to develop of new TMDLs remains.  The process of TMDL development is today well understood and many approaches are considered valid and proven to model pollution load/stream response relations. 
+Although several TMDLs has been approved by the USEPA for Puerto Rico and other areas in the United States, restoration of impaired water bodies is still pending or remains unreachable.  This could be related to the feasibility, or unfeasibility, of approved TMDLs implementation plans.  
+Feasibility of a TMDL implementation plan is closely related to the load allocation analysis.  Then, the allocation processes requires special attention and a carefully selected methodology to ensure a reasonable and attainable implementation plan.</md:abstract>
+  <md:uuid>cbe53658-40e6-47a3-a22d-d97dcf620fd5</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1169746564114">
+      <emphasis effect="bold">ANÁLISIS SOCIO-TÉCNICO PARA EL DESARROLLO DE TMDLS DESDE UNA PERSPECTIVA DE MANEJO INTEGRADO DE CUENCA</emphasis>
+    </para>
+    <para id="import-auto-id1169774553653">
+      <emphasis effect="bold">OSCAR H. MARTINEZ PINILLA</emphasis>
+    </para>
+    <list id="import-auto-id1169770782059" list-type="enumerated" number-style="upper-roman"><title>TABLA DE CONTENIDO</title><item>INTRODUCCIÓN</item>
+	
+<item>Sinopsis</item>
+
+<item>Definición y Propósito de un TMDL</item>
+
+<item>Antecedentes Históricos</item>
+
+<item>DESARROLLO DE UN TMDL</item>
+
+<item>Metodología</item>
+
+<item>ANALISIS DEL SISTEMA SOCIO-TÉCNICO DE UN TMDL</item>
+
+<item>Desarrollo e Implementación TMDL: Cumplimiento de Calidad Agua Vs. Equidad</item>
+
+<item>Evaluación del Sistema Socio-Técnico de un TMDL</item>
+
+<item>Es un TMDL una Tecnología Apropiada?</item>
+
+<item>REFERENCIAS</item>   
+        </list><list id="import-auto-id1169735411366" list-type="bulleted" bullet-style="bullet"><item>
+        
+       
+        
+        <emphasis effect="bold">LISTA DE FIGURAS</emphasis>
+      </item>
+    </list><section id="eip-517"><title>Definición y Propósito de un TMDL</title><para id="eip-316">
+
+</para></section><para id="import-auto-id1169774954219"><title>Sinopsis</title>El desarrollo y aprobación de TMDLs para los cuerpos de aguas de Puerto Rico que no han cumplido con los estándares mínimos de calidad se ha ido incrementando en los últimos años.  Sin embargo, la necesidad de nuevos TMDLs continúa.  El proceso de desarrollo de TMDLs hoy en día es bastante conocido y entendido.  Diferentes enfoques han sido considerados válidos para modelar relaciones de carga de contaminantes y respuesta de los cuerpos de agua a la contaminación.</para><para id="import-auto-id1169775827977">calidad y deberán establecer un TMDL para cada cuerpo de agua por cada contaminante que exceda reiteradamente los máximos valores permitidos.</para>
+    <para id="import-auto-id1169775759530">Los estándares de calidad de agua son establecidos bajo reglamentación estatal, y el límite o límites máximos pueden variar de Estado a Estado para cada contaminante.  En Puerto Rico, la agencia encargada de establecer y velar por el cumplimiento de los límites permitidos para cada contaminante es la Junta de Calidad Ambiental (JCA).</para>
+    <para id="import-auto-id1169732155982">El propósito de un TMDL es establecer la cantidad máxima de descarga de un determinado contaminante lo cual se establece a partir de la siguiente relación matemática:</para>
+    <para id="import-auto-id1169774975860">TMDL = 3WLAi + 3LAi + MOS</para>
+    <para id="import-auto-id1169775702027">3WLAi: Sumatoria de las asignaciones de carga para Fuentes Precisadas</para>
+    <para id="import-auto-id1169767246571">3LAi: Sumatoria de las asignaciones de carga para Fuentes Dispersas</para>
+    <para id="import-auto-id1169754747558">MOS: Margen de Seguridad (MOS, por sus siglas en inglés)</para>
+    <para id="import-auto-id1169735863556">Aunque el planteamiento matemático aparenta ser sencillo, el trasfondo del TMDL tiene un componente social, ambiental y económico que requiere de un envolvimiento e interacción directa entre las partes envueltas.  En efecto, la necesidad del desarrollo de estrategias de manejo basada en principios de manejo integrado de cuencas es necesaria para establecer un balance entre todos los factores y actores envueltos.  Estos principios serán evaluados desde el enfoque de evaluación de un Sistema Socio-Técnico.</para>
+    
+    <section id="eip-394"><title>Antecedentes Históricos</title><para id="eip-197">El Clean Water Act (CWA, por sus siglas en inglés) estableció las bases para regular las descargas de contaminantes y los estándares de calidad de agua, en los cuerpos de agua superficiales de los Estados Unidos.  Los fundamentos del CWA fueron establecidos en 1948 bajo la Federal Water Pollution Control Act, la primera ley de peso en los Estados Unidos que buscaba atender la contaminación de los cuerpos de agua.  Estas iniciativas fueron continuadas con la Federal Water Pollution Control Act en 1956 y la Water Quality Act en 1965.  En 1972, se promulgó la Federal Water Pollution Control Act la cual enmendaba y reorganizaba los aspectos principales de la ley existente del 1948.  La ley enmendada en 1972 y sus posteriores enmiendas </para></section><para id="import-auto-id1169770518211">El Clean Water Act (CWA, por sus siglas en inglés) estableció las bases para regular las descargas de contaminantes y los estándares de calidad de agua, en los cuerpos de agua superficiales de los Estados Unidos.  Los fundamentos del CWA fueron establecidos en 1948 bajo la Federal Water Pollution Control Act, la primera ley de peso en los Estados Unidos que buscaba atender la contaminación de los cuerpos de agua.  Estas iniciativas fueron continuadas con la Federal Water Pollution Control Act en 1956 y la Water Quality Act en 1965.  En 1972, se promulgó la Federal Water Pollution Control Act la cual enmendaba y reorganizaba los aspectos principales de la ley existente del 1948.  La ley enmendada en 1972 y sus posteriores enmiendas </para>
+    <para id="import-auto-id1169775718288">de 1977 y 1982, entre otras, son conocidas y referidas hoy día como Clean Water Act (CWA), o Ley de Agua Limpia (USEPA 2103a and 2013b).</para>
+    <para id="import-auto-id1169774973292">Hasta 1995, la Sección 303(d) la cual establece la regulación de los TMDLs fue un componente casi ignorado de la CWA del 1972.  Esto llevó a diferentes grupos a establecer demandas contra la USEPA a lo largo de varias cortes en los Estados Unidos.  La regulación que actualmente establece el programa de los TMDL fue publicado en 1992 en la Parte 130 del Título 40 del Código de Regulaciones Federales (CFR, por sus siglas en inglés), Sección 130.7 (40 CFR 130.7).</para>
+    <para id="import-auto-id1169775723002">En Agosto de 1999, la USEPA propuso cambios en las regulaciones existentes para clarificar y reforzar la jurisdicción de la USEPA sobre los Estados y Territorios, para implementar el programa de TMDL. Una reglamentación final que requirió a los Estados su responsabilidad sobre los TMDL fue emitida en Julio de 2000 y está en efecto desde Octubre 1, 2001. Según establece la CWA, cada Estado deberá reportar a la USEPA cada dos años un inventario de todos los cuerpos de agua, que debe incluir las condiciones generales y las tendencias de la calidad de agua de los cuerpos evaluados.  Esta lista se conoce como la lista 305(b), según corresponde a la Sección del CWA que establece este requerimiento.</para>
+    <para id="import-auto-id1169730934605">Adicionalmente, el CWA establece que los Estados deberán incluir en el reporte bienal (cada dos años), un listado de todos los cuerpos que se encuentran impactados y aquellos que no cumplen con los estándares mínimos de calidad de manera recurrente, según las normas y estándares de cada Estado.  Esta lista se conoce como la lista 303(d), según corresponde a la Sección del CWA que establece este requerimiento.  Ambas listas se pueden someter en un reporte integrado conocido como “Reporte integrado 303(d) y 305(b)”, los cuales son sometidos por la JCA ante la USEPA por parte de Puerto Rico.  Para cada cuerpo de agua donde los controles para la contaminación no son suficientes, un TMDL debe ser desarrollado e implementado por cada contaminante que esté excediendo recurrentemente los estándares aplicables de calidad de agua.</para>
+    <section id="eip-978"><para id="eip-930"/><section id="eip-415"><title>Metodología</title><para id="eip-262">
+
+</para></section></section><section id="eip-512"><title>DESARROLLO DE UN TMDL</title><section id="eip-179"><title>ANALISIS DEL SISTEMA SOCIO-TÉCNICO DE UN TMDL</title><para id="eip-870">
+
+</para></section></section><para id="import-auto-id1169739595145">El proceso de desarrollo de TMDLs puede sintetizarse en cinco pasos principales finalizando con el establecimiento de una asignación de cargas máximas a cada componente (Fuentes Dispersas y Fuentes Precisadas) y un plan de implementación.  El TMDL busca a reducción del exceso de carga de contaminante necesario para cumplir los estándares de calidad de agua para un contaminante específico.  Después del desarrollo de un TMDL, el plan de implementación es importante para conseguir el propósito principal: la reducción del exceso de carga de contaminante y la recuperación de la calidad del cuerpo de agua.</para>
+    <para id="import-auto-id1169730976610">Los cinco pasos del proceso de desarrollo del TMDL son (1) identificación del problema y establecimiento de metas numéricas basado en los estándares de calidad de agua; (2) evaluación de fuentes de contaminación y evaluación de carga de contaminantes; (3) establecimiento de un modelo que responda a la relación de flujo y carga de contaminante; (4) asignación de las cargas máximas permitidas por cada fuente; y (5) plan de implementación.</para>
+    <para id="import-auto-id1169775736223">El desarrollo de TMDLs es una tarea compleja que envuelve un enfoque interdisciplinario donde el juicio científico es requerido en conjunto con las destrezas y conocimiento de profesionales en múltiples áreas de las ciencias ambientales, sociales y disciplinas técnicas.  Este proceso asegurará que los estándares de calidad de agua se mantendrán permitiendo el desarrollo presente y futuro de las diversas actividades de desarrollo económico y social alrededor de los cuerpos de agua evaluados en el TMDL.  Es importante por consiguiente, desarrollar los TMDL y su programa de implementación dentro de un concepto manejo integrado de cuenca.  El desarrollo de un plan de manejo y desarrollo de cuenca implica la consideración de una cuenca como un sistema vivo y dinámico que interactúa alrededor de sus constituyentes, sus actividades socio-económicas y su relación con el medio ambiente.</para>
+    <para id="import-auto-id1169746461621">La <emphasis effect="bold">Figura 1</emphasis> muestra de manera sintetizada la metodología que se debe llevar a cabo como parte del proceso de desarrollo de un TMDL, incluyendo los cinco pasos de desarrollo y las tareas principales alrededor de cada etapa (USEPA, 2008b).</para>
+    <para id="import-auto-id1169763073002">Figura . <emphasis effect="bold">Etapas del Desarrollo del TMDL (USEPA, 2008b)</emphasis></para>
+    <section id="eip-127"><title> SISTEMA SOCIO-TÉCNICO DE UN TMDL</title><para id="eip-402">
+
+</para></section><para id="import-auto-id4054342"><title>Desarrollo e Implementación TMDL: Cumplimiento de Calidad Agua Vs. Equidad</title>Un TMDL debe ser considerado como una herramienta o tecnología y no como un fin para cumplir con un requerimiento gubernamental.  Por tanto, las estrategias de desarrollo e implementación deben ir de la mano con las necesidades y realidades de los constituyentes.  Como se mostró anteriormente, en el desarrollo de un TMDL es importante el envolvimiento y reconocimiento de los constituyentes durante todas las etapas.  Los TMDL vistos como un plan de manejo integrado de cuenca, deben ser un medio para resolver y prevenir problemas de calidad de agua que resultan tanto de fuentes dispersas como precisadas (USEPA, 2013c).</para><para id="import-auto-id1169775771246">Sin embargo, el enfoque actual usado por la USEPA para recuperar un cuerpo impactado por contaminación en exceso, asignando cargas máximas a cada tipo de fuente no establece ni está basado en ninguna consideración económica.  Sin embargo, la consideración de medidas para reducir la contaminación en las fuentes, tiene un impacto económico que no puede ser ignorado.  En adición a lo anterior, desde un enfoque práctico y realista, asignar limitaciones de descarga a las fuentes de manera impositiva o unilateral, difícilmente tendrá acogida o será bien recibida por los constituyentes. Cualquiera de las condiciones anteriores, donde no se establece un reconocimiento de las realidades y necesidades de los constituyentes, anticipa el fracaso de cualquier programa de implementación.  En este punto, se reconoce un reto complejo que solo puede ser resuelto bajo mecanismos de participación donde estén envueltas todas las partes.  </para>
+    <para id="import-auto-id1169735924475">Por tanto el desarrollo de un TMDL tiene un componente que envuelve los derechos y deberes de cada uno de los constituyentes.  Por un lado, el derecho a tener un desarrollo de actividades de uso y disfrute de sus propiedades, y por otro el deber de proteger y evitar el deterioro de las condiciones saludables del medio ambiente.  Es por tanto en este punto donde se abre un debate de carácter moral y ético entre las partes, donde cada una debe asumir parte de su responsabilidad y reconocer que le corresponde tomar participación y asumir parte del costo de recuperar un cuerpo de agua que ya ha perdido sus condiciones mínimas de calidad para su uso.</para>
+    
+    <section id="eip-979"><title>3.2	Evaluación del Sistema Socio-Técnico de un TMDL</title><para id="eip-92"/></section><para id="import-auto-id1169775827844">La evaluación del Sistema Socio-Técnico, para un TMDL visto como una metodología o una herramienta de planificación, se desarrolló a partir de varios componentes del entorno de sus fases de evaluación, desarrollo e implementación.  Siendo un TMDL una herramienta que busca un mejoramiento o recuperación de los estándares mínimos de calidad agua, la <emphasis effect="bold">Figura 2</emphasis> presenta el Sistema Socio-Técnico evaluado a partir de los componentes: (1) Tecnológico; (2) Entorno ético; (3) Entorno Físico; (4) Personas, Grupos y Roles; (5) Procedimientos; (6) Leyes, Estatutos y Regulaciones; y (7) Datos y Estructura de Datos.</para>
+    <table id="eip-399" summary="Sistema Socio-Técnico de un TMDL"><title>Sistema Socio-Técnico de un TMDL</title>
+<tgroup cols="7"><tbody>
+  <row>
+    <entry><emphasis>Tecnología</emphasis></entry>
+    <entry><emphasis>Entorno Ético</emphasis></entry>
+    <entry><emphasis>Entorno Físico</emphasis></entry>
+    <entry><emphasis>Personas, Grupos y Roles</emphasis></entry>
+    <entry><emphasis>Procedimientos</emphasis></entry>
+    <entry><emphasis>Leyes, Estatutos y Regulaciones</emphasis></entry>
+    <entry><emphasis>Datos y Estructura de Datos</emphasis></entry>
+  </row>
+  <row>
+    <entry>Hardware:Equipos e Instrumentos de Monitoreo
+</entry>
+    <entry>Conflicto Moral:
+Calidad Agua Vs Equidad
+</entry>
+    <entry>Manejo Integrado de Cuenca:
+Extensivo a los límites físicos de la cuenca.
+</entry>
+    <entry>Habitantes y Componentes del Entorno: Comercios Locales, Industriales, Comunidades.</entry>
+    <entry>Reportes Bienales
+303(d), 305 (b)
+</entry>
+    <entry>CWA
+Secciones
+303(d), 305 (b)
+</entry>
+    <entry>Monitoreo Calidad Agua:
+USGS and JCA
+</entry>
+  </row>
+  <row>
+    <entry>Código:
+Expresión Matemática del TMDL; Documentos reporte
+</entry>
+    <entry>Compromiso Social:
+Envolvimiento de los constituyentes
+</entry>
+    <entry>Escala de Análisis:
+Cuenca;
+Subcuencas;
+Nivel de detalle
+</entry>
+    <entry>Grupos de Interés:
+Autoridades Locales, Activistas Locales, ONGs
+</entry>
+    <entry>Estados deben definir sus prioridades de acción.(3,5)</entry>
+    <entry>JCA:
+Estándares de Calidad de Agua
+</entry>
+    <entry>Evaluación de la Cuenca:
+Uso de Terrenos, Geografía, Hidrografía, Datos Climatología
+</entry>
+  </row>
+  <row>
+    <entry>Software:
+Modelos Matemáticos y de computadoras
+</entry>
+    <entry>Derechos:
+Ambiente Limpio 
+</entry>
+    <entry>Subdivisiones:
+Límites geográficos, políticos, usos de terreno.
+</entry>
+    <entry>Agencias Estatales:
+JCA
+</entry>
+    <entry>Desarrollo del TMDL;
+Enfoque Multidisciplinario
+</entry>
+    <entry>USEPA:
+NPDES, MS4
+</entry>
+    <entry>Datos Socio-Económicos; Demografía</entry>
+  </row>
+  <row>
+    <entry>Herramientas:
+Tecnología y Herramientas para Prácticas de Manejo (BMP)
+</entry>
+    <entry>Deberes:
+Todos las fuentes tienen responsabilidad
+</entry>
+    <entry/>
+    <entry>Agencias Federales:
+USEPA
+</entry>
+    <entry>Plan de Implementación</entry>
+    <entry/>
+    <entry/>
+  </row>
+</tbody>
+
+
+
+
+
+
+</tgroup>
+</table><section id="eip-952"><title>Es un TMDL una Tecnología Apropiada?</title><para id="eip-871">
+
+</para></section><list id="eip-306"><title>El TMDL como una herramienta de tecnología apropiada debe ser evaluado a partir de los siguientes elementos:</title><item>Ambientalmente amigable</item>
+
+<item>De labor intensiva</item>
+
+<item>Energéticamente eficiente</item>
+
+<item>Conducente a la Descentralización</item>
+
+<item>Compatible con las leyes de la Ecología</item>
+
+<item>Hace uso de tecnología moderna</item>
+
+<item>Amigable en el uso de recursos</item></list><section id="eip-322"><title>REFERENCIAS</title><list id="eip-134" list-type="enumerated" number-style="arabic"><item>Puerto Rico Environmental Quality Board (PREQB),  (2010).  305(b) / 303(d) Integrated Report.  PREQB Plans and Special Projects Division Evaluation and Strategic Planning Area. San Juan, PR.</item>
+
+<item>Total maximum daily loads (TMDL) and individual water quality- based effluent limitations. Code of Federal Regulations Title 40, Pt. 130.7, 2011 ed.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA). (1985). Technical Support Document for Water Quality-based Toxics Control. EPA 440/4-85-032. USEPA, Office of Water, Washington, DC.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA). (1986). Stream Sampling for Waste Load Allocation Applications, Handbook. EPA/625/6-86/013. USEPA, Office of Research and Development, Washington, DC.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA). (1991). Guidance for Water Quality-based Decisions: The TMDL Process. EPA 440/4-91-001. USEPA, Office of Water, Office of Wetlands, Oceans, and Watersheds, Washington, DC.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA). (2001a). The National Costs of the Total Maximum Daily Load Program (Draft Report). EPA 841-D-01-003. U.S. Environmental Protection Agency, Office of Water, Washington, DC.</item> 
+
+<item>U.S. Environmental Protection Agency (USEPA). (2001b). The National Costs to Develop TMDLs (Draft Report): Support Document #1 for “The National Costs of the Total Maximum Daily Load Program (Draft Report). EPA 841-D-01-004. U.S. Environmental Protection Agency, Office of Water, Washington, DC.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA). (2001c). Protocol for Developing Pathogen TMDLs. EPA 841-R-00-002. Office of Water (4503F), USEPA. Washington, DC.</item> 
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2007a). Options for expressing Daily Loads in TMDLs. Draft document by USEPA, Office of Water, Office of Wetlands, Oceans, and Watersheds, Washington, DC.  Document retrieved from: http://www.epa.gov/owow/ tmdl/draft_daily_loads_tech.pdf.  Retrieval date: April, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2007b). Total Maximum Daily Loads with Stormwater Sources: A Summary of 17 TMDLs. EPA 841-R-07-002. USEPA, Office of Water, Office of Wetlands, Oceans, and Watersheds, Washington, DC.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2008a).  Handbook for Developing Watershed Plans to Restore and Protect Our Waters.  EPA 841-B-08-002. USEPA, Office of Water Non-point Source Control Branch, Washington, DC.</item>
+<item>U.S. Environmental Protection Agency (USEPA).  (2008b).  Handbook for Developing Watershed TMDLs. Draft document by USEPA, Office of Water, Office of Wetlands, Oceans, and Watersheds, Washington, DC. Document retrieved from: http://www.epa.gov/owow/ tmdl/pdf/draft_handbook.pdf.  Retrieval date: June, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2008c).  TMDLs to Stormwater Permits Handbook.  Draft document by USEPA, Office of Water, Office of Wetlands, Oceans, and Watersheds, Washington, DC. Document retrieved from: www.epa.gov/owow/tmdl/ pdf/tmdl-sw_permits11172008.pdf‎.  Retrieval date: June, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2009).  Litigation Status: Summary of Litigation on Pace of TMDL Establishment.  Retrieved from: http://water.epa.gov/ lawsregs/lawsguidance/cwa/tmdl/lawsuit.cfm‎.  Retrieval date: August 23, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2010).  Watershed Assessment, Tracking and Environmental Results: Puerto Rico Water Quality Assessment Report, Assessed Waters of Puerto Rico by Watershed.  Retrieved from: http://ofmpub.epa.gov/waters10/ attains_state.control?p_state=PR‎.  Retrieval date: August 12, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2013a).  Laws and Regulations: History of the Clean Water Act  Retrieved from: http://www2.epa.gov/laws-regulations/history-clean-water-act.  Retrieval date: November 25, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2013b).  Laws and Regulations: Summary of the Clean Water Act  Retrieved from: http://www2.epa.gov/laws-regulations/history-clean-water-act.  Retrieval date: November 25, 2013.</item>
+
+<item>U.S. Environmental Protection Agency (USEPA).  (2013c). A Quick Guide to Watershed Management.  EPA 841-R-13-003. USEPA, Office of Water, Office of Wetlands, Oceans, and Watersheds, Non-point Source Control Branch (4503T), Washington, DC.</item>
+
+
+</list><para id="eip-243"/></section><section id="eip-767"><title>Report and Poster</title><para id="eip-289"><title>ANÁLISIS SOCIO-TÉCNICO PARA EL DESARROLLO DE TMDLS DESDE UNA PERSPECTIVA DE MANEJO INTEGRADO DE CUENCA</title><media id="TMDL-report" alt="TMDL Report pdf">
+  <download mime-type="application/pdf" src="TMDL XML pdf.pdf"/>
+</media>
+</para><para id="eip-151"><title>ANÁLISIS SOCIO-TÉCNICO PARA EL DESARROLLO DE TMDLS DESDE UNA PERSPECTIVA DE MANEJO INTEGRADO DE CUENCA</title><media id="TMDL-pres" alt="TMDL Presentation and Poster">
+  <download mime-type="application/pdf" src="TDML Development Poster.pdf"/>
+</media></para></section>
+  </content>
+</document>

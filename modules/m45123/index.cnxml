@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Destrezas de Información - Parte III</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m45123</md:content-id>
+  <md:title>Destrezas de Información - Parte III</md:title>
+  <md:abstract>Este módulo ayudará a desarrollar destrezas para identificar, localizar y evaluar críticamente las fuentes de información y su contenido. El estudiante podrá realizar búsquedas efectivas a través de bases de datos adecuadas que ofrecen información relevante para complementar el contenido del curso o para completar la preparación de asignaciones y proyectos académicos.</md:abstract>
+  <md:uuid>ddd0cefc-7e74-4961-abd1-23806012dacd</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166781017289"><emphasis effect="bold">Unidad:</emphasis> Propuesta CIVIS (Centro de Recursos para la Educación General/Center for Resources in General Education) U.S. Department of Education grant 84.031S, 2009-2012</para>
+    <para id="id3491291"><emphasis effect="bold">Módulo:</emphasis> Destrezas de información</para>
+    <para id="id1166767451870"><emphasis effect="bold">Autores:</emphasis> Jaquelina Álvarez (<link url="mailto:jaquelina.alvarez@upr.edu">jaquelina.alvarez@upr.edu</link>) y Arelys Fernández (<link url="mailto:arelys.fernandez@upr.edu">arelys.fernandez@upr.edu</link>) </para>
+    <para id="id1166765100573"><emphasis effect="bold">Nivel y enfoque:</emphasis> Estudiantes subgraduados en áreas de ingeniería, ciencias y matemáticas </para>
+    <para id="id1166780278192"><emphasis effect="bold">Duración:</emphasis> 3 horas</para>
+    <para id="id1166763345458"><emphasis effect="bold">Resumen:</emphasis> Este módulo tiene como propósito desarrollar algunas de las destrezas básicas de información en estudiantes a nivel subgraduado, en particular estudiantes de ciencias, matemáticas e ingeniería. Está separado en tres partes para facilitar la enseñanza del mismo: 1) Identificación y clasificación de la literatura, 2) Estrategias de búsqueda aplicadas a las bases de datos para buscar información primaria y 3) Evaluación de información en la Web. El módulo es flexible, sus partes pueden ofrecerse por separado, en periodos de 50 minutos aproximadamente u ofrecerse como una clase de 3 horas. </para>
+    <para id="id1166768886798">En la parte 1, se describen las características particulares de cada clasificación para poder identificar y diferenciar entre una y otra. La parte 2 describe y explica los pasos del procesos de investigación y la aplicación de operadores booleanos en bases de datos académicas para buscar artículos de información primaria. En la parte 3, se ofrecen algunas ideas prácticas para realizar búsquedas eficientes en Internet y se discuten los criterios básicos para evaluar la información encontrada. Esta parte del modulo bien puede ofrecerse en conjunto con la parte 2 u omitirse del todo para una redistribución del tiempo. Cada parte del módulo contiene un ejercicio de práctica para aplicar el conocimiento adquirido y avaluar el módulo mismo.</para>
+    <para id="id1166757716205"><emphasis effect="bold">Ambiente:</emphasis> El módulo fue diseñado para ofrecerse como taller, en colaboración (team-teaching) entre el profesor del curso donde será integrado el módulo y los diseñadores del mismo. La primera vez que se ofrezca el módulo, el diseñador dirigirá el taller. El profesor observará y tomará nota para mejorarlo. Las partes se reunirán para intercambiar impresiones y editar el módulo según lo consideren necesario. Este se implementará en una segunda ocasión (en un grupo similar al anterior), pero los roles entre diseñador y profesor se cambiarán. Habiendo evaluado los resultados de los primeros cambios al módulo, se decidirá la versión final del mismo para su posterior integración por el profesor como parte regular de su curso en todas sus secciones.</para>
+    <para id="id1166764651454">El taller debe ofrecerse en un salón o centro de cómputos donde haya contacto visual entre los participantes y quien ofrece el módulo. Cada estudiante debe tener una computadora disponible con acceso a Internet y a las bases de datos durante todo el taller. </para>
+    <para id="id1166767916547"><emphasis effect="bold">Objetivos instruccionales:</emphasis> Al finalizar el módulo los estudiantes podrán:</para>
+    <list id="id1166785030331" list-type="bulleted">
+      <item>Distinguir entre literatura popular y científica</item>
+      <item>Diferenciar entre literatura primaria y secundaria</item>
+      <item>Aplicar estrategias efectivas de búsqueda en las bases de datos para hallar información primaria</item>
+      <item>Evaluar páginas e información de Internet usando criterios específicos</item>
+    </list>
+    <para id="id1166781051038">
+      <emphasis effect="bold">Materiales, equipo y tecnología: </emphasis>
+    </para>
+    <list id="id1166764643864" list-type="bulleted"><item>Presentaciones en Power Point</item>
+      <item>Conexión a Internet </item>
+      <item>Varias revistas de la disciplina</item>
+      <item>Acceso a bases de datos académicas</item>
+      <item>Proyector </item>
+      <item>Pizarra y marcadores</item>
+    </list>
+    <para id="id1166780679144"><emphasis effect="bold">Estrategias de enseñanza:</emphasis><emphasis effect="bold"/> El módulo fue diseñado para ofrecerse como taller, con la ayuda visual de una presentación. Se efectuarán ejercicios de práctica durante el mismo y se asignarán tareas para después. El módulo puede complementarse con información sobre el plagio y la construcción de referencias bibliográficas.</para>
+    <para id="id9109515"><emphasis effect="bold">Destrezas o requisitos:</emphasis><emphasis effect="bold"/> Para completar el módulo con éxito es necesario que los participantes del mismo puedan hacer prácticas significativas para ellos, por lo que se sugiere que cada uno tenga un tema asignado o seleccionado del que tenga que buscar información específica. Los participantes deben tener destrezas básicas en el uso de la computadora y de Internet: prender y apagar el equipo, abrir y cerrar ventanas de Internet, entre otras.</para>
+    <para id="id1166757354832">
+      <emphasis effect="bold">Actividades (contenido): </emphasis>
+    </para>
+    
+    <section id="eip-652"><title>Parte III – Evaluación de la información </title><para id="eip-110">
+</para></section><para id="id1166769683226">Es importante evaluar la información que usamos en investigaciones ya que de lo contrario la misma se afectará negativamente. Las bases de datos de la Biblioteca proveen una alternativa adicional a las diferentes fuentes de búsqueda, limitar los resultados por tipo de recurso incluyendo aquellos que han sido previamente evaluados por expertos en la materia. Incluso los dividen en populares y académicos, facilitando el proceso de selección. Por otro lado, los recursos encontrados o accedidos a través de un buscador de Internet (search engine) no tienen estas alternativas. Toda la información encontrada en ellos debe ser evaluada cuidadosamente antes de usarla.</para>
+    <para id="id3666082">Guía para evaluar información y páginas de Internet </para>
+    <table id="id1166768143984" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>¿Qué? </entry>
+            <entry>¿Sobre QUÉ trata la página de internet? ¿Tiene la clase de información que necesitas? ¿La página es académica o popular? ¿Incluye literatura primaria? </entry>
+          </row>
+          <row>
+            <entry>¿Quién? </entry>
+            <entry>¿QUIÉN creó la página de internet? ¿Están disponibles las credenciales del autor, ya sea un individuo o una organización? </entry>
+          </row>
+          <row>
+            <entry>¿Dónde? </entry>
+            <entry>¿De DÓNDE procede la información?e.g., .edu=educativa, .com=comercial, .org=organización, .gov=gobierno </entry>
+          </row>
+          <row>
+            <entry>¿Por qué?</entry>
+            <entry>¿POR QUÉ la página está en el Internet y cómo eso afecta la información? ¿Están claramente expuestos los objetivos del autor</entry>
+          </row>
+          <row>
+            <entry>¿Cuándo?</entry>
+            <entry>¿CUÁNDO se actualizó la información o la página? ¿Es importante la fecha para la relevancia del contenido</entry>
+          </row>
+          <row>
+            <entry>¿Cuán?</entry>
+            <entry>CUÁN confiable o precisa es esta página? ¿Informa sobre hallazgos primarios? ¿Será una buena fuente de información para un trabajo investigativo</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1166757945264"/>
+    <para id="id1166757897106">
+      <emphasis effect="bold">Avalúo: </emphasis>
+    </para>
+    <para id="id1166763342856"><emphasis effect="italics">Avalúo formal</emphasis> – Como prueba corta o tarea, asigne al estudiante el siguiente ejercicio.</para>
+    <para id="id1166788131286">Localice al menos un artículo o página de Internet sobre su tema de investigación aplicando las estrategias y parámetros discutidos en el taller. Luego de evaluar la referencia, conteste las siguientes preguntas: </para>
+    <list id="id1166770181551" list-type="bulleted">
+      <item>¿Cuán confiable resultó ser las referencias que seleccionaste? </item>
+      <item>¿Es clasificada como literatura primaria o secundaria?</item>
+      <item>¿Cuán apropiado es que la uses esta información en tu trabajo de investigación?</item>
+    </list>
+    <para id="id1166771828794"><emphasis effect="italics">Avalúo informal</emphasis> – Luego de hacer el avalúo formal, puede aplicarse la técnica del diario reflexivo o la de <emphasis effect="italics">one minute paper</emphasis> para que describan brevemente lo que piensan sobre el uso de Internet vs las bases de datos como alternativas de búsqueda para información confiable. </para>
+    <para id="id1166775603264">
+      <emphasis effect="bold">Creando la bibliografía o lista de referencias</emphasis>
+    </para>
+    <para id="id1166779147652">Las referencias son una manera de evitar el plagio, delito que consiste en hacer pasar por propias las palabras, ideas o creación de otros. Usar referencias no es otra cosa que dar crédito al trabajo intelectual de otras personas, a la vez que facilita la verificación de la información y permite al lector dar continuidad a la investigación.</para>
+    <list id="id1166779293813" list-type="bulleted"><item>Existen distintos manuales de estilo que se usan para crear y organizar las referencias. Cada disciplina usa uno en particular, por ejemplo, ingeniería usa IEEE Editorial Style Manual <link url="http://standards.ieee.org/guides/style/2009_Style_Manual.pdf">http://standards.ieee.org/guides/style/2009_Style_Manual.pdf</link></item>
+      <item>Mendeley, Zotero, EndNote y otros programados facilitan la creación organización de las referencias. Estos RMS funcionan para varios manuales. Puede conseguir más información en <link url="http://www.zotero.org">www.zotero.org</link>, <link url="http://www.mendeley.com/">http://www.mendeley.com/</link></item></list><para id="id1166784748574">
+      <emphasis effect="bold">Ayuda disponible </emphasis>
+    </para>
+    <list id="id1166768590999" list-type="bulleted"><item>Por email – <link url="mailto:virtualref@uprm.edu">virtualref@uprm.edu</link></item>
+      <item>Por chat – <link url="http://www.uprm.edu/library">www.uprm.edu/library</link></item>
+      <item>Por teléfono – ext. 2023 (Col. Referencia), ext. 2026 (CRRE), ext. 3584 (Circulación)</item>
+    </list><section id="eip-613"><title>Anejos y documentos de apoyo</title><list id="eip-599"><item>Hoja de Trabajo 1: 
+
+<media id="Worksheet" alt="Info Lit w/s">
+  <download mime-type="application/pdf" src="Search Strategy Development Worksheet.pdf"/>
+</media></item>
+
+<item>Asignación 1:
+
+<media id="Asig" alt="Info Lit w/s">
+  <download mime-type="application/pdf" src="Library Assignment.pdf"/>
+</media></item>
+
+<item>Presentación 1:
+
+<link url="http://uprm.edu/library/docs/tutorias/EvaluacionCriticaFuentesInformacion.ppt" window="new"> http://uprm.edu/library/docs/tutorias/EvaluacionCriticaFuentesInformacion.ppt</link></item>
+
+
+<item>Hoja de Trabajo 2:
+
+Lista de cotejo: Información primaria vs secundaria y Fuentes académicas vs populares (para clasificación de fuentes) <link url="http://uprm.edu/library/docs/tutorias/ListaCotejoFuentes2012.pdf" window="new">http://uprm.edu/library/docs/tutorias/ListaCotejoFuentes2012.pdf</link></item>
+
+<item>Rúbrica 1:
+
+Rúbrica para avaluar referencias <link url="http://uprm.edu/library/docs/tutorias/RubricaAvaluarReferencias2012.pdf" window="new">http://uprm.edu/library/docs/tutorias/RubricaAvaluarReferencias2012.pdf</link></item>
+
+<item>Presentación 2:
+
+
+<media id="Presentacion2" alt="pp">
+  <download mime-type="application/pdf" src="Module Presentation.pdf"/>
+</media></item></list></section>
+    </content>
+</document>
