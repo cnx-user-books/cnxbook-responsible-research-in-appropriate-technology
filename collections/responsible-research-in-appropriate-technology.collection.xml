@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="William Frey ,Cristina Rivera">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11556</md:content-id>
     <md:title>Responsible Research in Appropriate Technology</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>48e315d1-233d-496b-8f7e-18c9e847f4a3</md:uuid>
-<md:slug>responsible-research-in-appropriate-technology</md:slug>
-</metadata>
+    <md:slug>responsible-research-in-appropriate-technology</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Responsible Conduct of Research (RCR)</md:title>
